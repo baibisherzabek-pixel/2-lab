@@ -11,7 +11,7 @@ public class Main {
     }
 }
  */
-//2. Жұп немесе тақ
+//2. 
 /*
 import java.util.Scanner;
 public class Main{
@@ -35,7 +35,7 @@ public class Main {
     }
 }
  */
-//4. Көбейту кестесі
+//4. 
 /*
 import java.util.Scanner;
 public class Main {
@@ -60,7 +60,7 @@ public class Main {
     }
 }
  */
-//6. Дауысты әріптердің саны
+//6. 
 /*
 import java.util.Scanner;
 
@@ -107,7 +107,7 @@ public class Main {
     }
 }
  */
-//9. Массив элементтерінің қосындысы
+//9. 
 /*
 import java.util.Scanner;
 public class Main {
